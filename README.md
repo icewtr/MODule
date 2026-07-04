@@ -1,6 +1,9 @@
 # MODule
 Coaxial Swerve Module for FIRST Tech Challenge
 
+<img width="1394" height="920" alt="image" src="https://github.com/user-attachments/assets/298ae1ad-0cd4-4f45-9204-d623306cf457" />
+
+
 
 # DISCLAIMER: MOST OF THIS SWERVE MODULE IS STILL UNDER DEVELOPMENT. THIS STILL NEEDS TO BE TESTED AND ITERATED UPON, SO IF YOU BUILD IT BUILD IT AT YOUR OWN RISK
 
