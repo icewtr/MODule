@@ -1,5 +1,5 @@
 # MODule
-Drop-in, competition ready coaxial Swerve Module for FIRST Tech Challenge.
+Designed as a drop-in, competition ready coaxial Swerve Module for FIRST Tech Challenge.
 
 <img width="1394" height="920" alt="image" src="https://github.com/user-attachments/assets/298ae1ad-0cd4-4f45-9204-d623306cf457" />
 
