@@ -15,17 +15,19 @@ if your interested, you should check out my **[Build Journal](JOURNAL.md)** and 
 - This is FTC Alpine Robotics' third (and most likely final) yeear in First Tech Challenge. As an improvement, we decided to work on omni-directional "swerve drive" for our 2026-2027 year, meaning it is able to move in more directions than just forward or back. we chose this as it allows for higher movability and traction, making us a more competitive robot on the field.
 
 # What Does this Do?
-Unlike omni-directional mecanum wheels (which rely on passive rollers and vectoring to be able to move in multiple directions), which is what most FTC teams use due to simplicity. Due to having rollers instead of proper steering, the robot ends up slower when turning or not foing perfectly forwards and backwards, and we wanted to change that. We built a swerve module, where each wheel is independently driven and steered. this allows for smoother movement, more traction (since no passive rollers), and an overall faster robot.
+Unlike omni-directional mecanum wheels (which rely on passive rollers and vectoring to be able to move in multiple directions), which is what most FTC teams use due to simplicity. Due to mecanum wheels rely on rollers instead of true steering, they lose efficiency when moving sideways or while rotating, especially under load, and we wanted to change that. We built a swerve module, where each wheel is independently driven and steered. this allows for smoother movement, more traction (since no passive rollers), and an overall faster robot.
 
+# The Encoder
+Unlike many other FTC Swerve modules, this features an absolute encder, meaning it provides an immediate absolute wheel angle at startup, eliminating the need for homing or zeroing and will prevent excess drift, making sure sure wheel headings are accurate.
 
 # Technical Specs at a Glance:
-- Modern Robotics 5000 series Drive motor (5800 rpm) off a 6.7:1 (yes im not joking) reduction for a final wheel RPM of 860 RPM
+- Modern Robotics 5000 series Drive motor (5800 rpm) off a 6.74:1 reduction for a final wheel speed of ~860 RPM
 
 - Free Speed of 8.1 Feet/sec
 
 - SWYFT Robotics Torque servo steering off a 2.818:1 reduction
 
-- usage of printed PA-CF helical and herringbone gears for low backlash and higher strength than straignt-cut printed gears
+- usage of printed PA-CF helical and herringbone gears for low backlash and higher strength than straignt-cut printed gears (force spread across multiple teeth vs one, increases strength as force is dispersed)
 
 - easy to repair and maintain (wheel off in 2 screws, pod off in 8 screws)
 
