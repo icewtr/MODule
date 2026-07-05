@@ -16,15 +16,15 @@ Unlike omni-directional mecanum wheels (which rely on passive rollers and vector
 
 
 # Technical Specs at a Glance:
-Modern Robotics 5000 series Drive motor (5800 rpm) off a 6.7:1 (yes im not joking) reduction for a final wheel RPM of 860 RPM
+- Modern Robotics 5000 series Drive motor (5800 rpm) off a 6.7:1 (yes im not joking) reduction for a final wheel RPM of 860 RPM
 
-Free Speed of 8.1 Feet/sec
+- Free Speed of 8.1 Feet/sec
 
-SWYFT Robotics Torque servo steering off a 2.818:1 reduction
+- SWYFT Robotics Torque servo steering off a 2.818:1 reduction
 
-usage of printed PA-CF helical and herringbone gears for low backlash and higher strength than straignt-cut printed gears
+- usage of printed PA-CF helical and herringbone gears for low backlash and higher strength than straignt-cut printed gears
 
-easy to repair and maintain (wheel off in 2 screws, pod off in 8 screws)
+- easy to repair and maintain (wheel off in 2 screws, pod off in 8 screws)
  
 # Links:
 If You're Interested in this, you should check out my
