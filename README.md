@@ -7,7 +7,8 @@ Drop-in, competition ready coaxial Swerve Module for FIRST Tech Challenge.
 
 # DISCLAIMER: MOST OF THIS SWERVE MODULE IS STILL UNDER DEVELOPMENT. THIS STILL NEEDS TO BE TESTED AND ITERATED UPON, SO IF YOU BUILD IT BUILD IT AT YOUR OWN RISK
 
-if your interested, you should check out my **[Build Journal :)](JOURNAL.md)**
+
+if your interested, you should check out my **[Build Journal](JOURNAL.md)** and **[Onshape Link :)](https://cad.onshape.com/documents/c73424119075b04fe773cc9a/w/dba58bb3bda5d97556e64109/e/f671ee2d5444472f512f4386?renderMode=0&uiState=6a493abc58e420f9881091d0)**
 
 
 # Context:
@@ -218,13 +219,4 @@ Unlike omni-directional mecanum wheels (which rely on passive rollers and vector
 |89  |1       |              |Socket button head screw M4x0.7 x 5 Stainless Steel                                       |Socket button head screw M4x0.7 x 5                                        |
 
 **NOTE: ALL ITEMS WITH JHA17 IS PART OF THE LILY BEARING JHA17XL0 BEARING ASSEMBLY**
-
-
-
-# Links:
-If You're Interested in this, you should check out my
-
-**Onshape Link:**
-https://cad.onshape.com/documents/c73424119075b04fe773cc9a/w/dba58bb3bda5d97556e64109/e/f671ee2d5444472f512f4386?renderMode=0&uiState=6a493abc58e420f9881091d0
-
 
