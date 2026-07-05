@@ -1,0 +1,14 @@
+Part,Description,Material,Qty,CAD name
+Hub Bevel Gear,Hub Gear for Wheel,PA6 CF20,1,Spiral Bevel 0.8M 52T 75deg
+Pinion Bevel gear,Bevel gear that meshes with Hub Gear,PA6 CF20,1,Spiral Bevel 0.8M 18T 15deg
+Main Pod Steering Gear,Hub gear for steering,PA6 CF20,1,Steering Gear
+Small Coaxial Gear,smaller coaxial reciever gear,PA6 CF20,1,Coaxial Reciever Gear
+Large Coaxial Gear w/Pulley,pulley connection and coaxial transmitter gear,PA6 CF20,1,Coaxial Transmit Gear
+Motor Spacer,Spacer for Motor,PA6 CF20,1,Motor Spacer
+Fork A,Fork with hole for Bevel Gear,PA6 CF20,1,ForkA
+Fork B,Blank Fork,PA6 CF20,1,ForkB
+Tread,Wheel Tread,95A TPU,1,Tread
+Encoder Standoff,Standoff for encoder Plate,PA6 CF20,2,PStandoff
+Encoder Plate,,6061-T6 Aluminum,1,EncoderL/R (Both are Same)
+Top Plate,,6061-T6 Aluminum,1,Top_L/R (Both are Same)
+Base Plate,,6061-T6 Aluminum,1,Base_L/R (Both are Same)
