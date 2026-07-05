@@ -32,7 +32,7 @@ Unlike many other FTC Swerve modules, this features an absolute encder, meaning 
 - easy to repair and maintain (wheel off in 2 screws, pod off in 8 screws)
 
 # BOM: Parts
-** This is for all the parts one would need to make a SINGLE Swerve Module **
+**This is for all the parts one would need to make a SINGLE Swerve Module**
 |Part                                                 |Description                                                                   |Link                                                                                           |Quantity|Cost Per Unit (USD)|# Units Ordered|Total Cost|
 |-----------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|--------|-------------------|---------------|----------|
 |M4 * 14mm Countersunk Screw                          |                                                                              |https://www.mcmaster.com/91294A193/                                                            |4       |7.27               |1              |7.27      |
@@ -68,7 +68,7 @@ Unlike many other FTC Swerve modules, this features an absolute encder, meaning 
 |                                                     |                                                                              |                                                                                               |        |                   |               |          |
 
 # BOM: Custom Manufactured Parts
-** This is for all the custom parts that would need to be 3D-Printed or Milled using items bought in the Parts BOM **
+**This is for all the custom parts that would need to be 3D-Printed or Milled using items bought in the Parts BOM**
 |Part                       |Description                                   |Material        |Qty|CAD name                   |
 |---------------------------|----------------------------------------------|----------------|---|---------------------------|
 |Hub Bevel Gear             |Hub Gear for Wheel                            |PA6 CF20        |1  |Spiral Bevel 0.8M 52T 75deg|
@@ -86,7 +86,7 @@ Unlike many other FTC Swerve modules, this features an absolute encder, meaning 
 |Base Plate                 |                                              |6061-T6 Aluminum|1  |Base_L/R (Both are Same)   |
 
 # BOM: Procurement
-** This is for funding, basically what all I need funding for. this is taken off the Parts BOM, and whatever parts I am supplying are removed. **
+**This is for funding, basically what all I need funding for. this is taken off the Parts BOM, and whatever parts I am supplying are removed.**
 
 |Part                                              |Description                                                                   |Link                                                                                       |Quantity|Cost Per Unit (USD)|# Units Ordered|Total Cost|
 |--------------------------------------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------|-------------------|---------------|----------|
