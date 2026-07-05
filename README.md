@@ -31,3 +31,5 @@ If You're Interested in this, you should check out my
 
 **Onshape Link:**
 https://cad.onshape.com/documents/c73424119075b04fe773cc9a/w/dba58bb3bda5d97556e64109/e/f671ee2d5444472f512f4386?renderMode=0&uiState=6a493abc58e420f9881091d0
+
+**[Build Journal](JOURNAL.md)**
