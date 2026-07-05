@@ -137,8 +137,8 @@ cant wait to build it!
 
 - time spent: ~15 mins
 
-#TOTAL TIME (AS PER HACKATIME): 12 Hours 57 minutes
-#TOTAL TIME (AS PER JOURNAL): ~12 Hours
+# TOTAL TIME (AS PER HACKATIME): 12 Hours 57 minutes
+# TOTAL TIME (AS PER JOURNAL): ~12 Hours
 
 # KEY TAKEAWAYS:
 - When comparing swerve to mecanum drivetrains, performance is less constrained by wheel vectoring and more by torque and speed for both propulsion and steering, packaging, and controllability
