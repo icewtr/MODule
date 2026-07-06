@@ -88,7 +88,6 @@ Unlike many other FTC Swerve modules, this features an absolute encder, meaning 
 
 # BOM: Procurement
 **This is for funding, basically what all I need funding for. this is taken off the Parts BOM, and whatever parts I am supplying are removed.**
-
 |Part                                              |Description|Link                                                                                       |Quantity|Cost Per Unit (USD)|# Units Ordered|Total Cost|
 |--------------------------------------------------|-----------|-------------------------------------------------------------------------------------------|--------|-------------------|---------------|----------|
 |M4 * 14mm Countersunk Screw                       |           |https://www.mcmaster.com/91294A193/                                                        |4       |7.27               |1              |7.27      |
@@ -106,9 +105,6 @@ Unlike many other FTC Swerve modules, this features an absolute encder, meaning 
 |Gobilda 2mm Pitch GT2 Pinion Timing Pulley        |           |https://www.gobilda.com/2mm-pitch-gt2-pinion-timing-pulley-1-8-bore-20-tooth/              |1       |7.99               |1              |7.99      |
 |Rev 8mm ID * 12mm OD *3.5mm WD Flanged Bearing    |           |https://www.revrobotics.com/rev-49-1559-pk10/                                              |4       |18.5               |1              |18.5      |
 |122T GT2 2mm Timing Belt, 6mm WD                  |           |https://shop.sdp-si.com/a-6r51m122060.html                                                 |1       |8.5                |1              |8.5       |
-|LILY BEARING JHA17XL0 X-Contact Bearing           |           |https://www.lily-bearing.com/products/jha17xl0/                                            |1       |47.84              |1              |47.84     |
-|TOTAL COST                                        |           |                                                                                           |        |                   |               |**177.72**|
-|                                                  |           |                                                                                           |        |                   |               |          |
-|                                                  |           |                                                                                           |        |                   |               |          |
-|                                                  |           |                                                                                           |        |                   |               |          |
-|                                                  |           |                                                                                           |        |                   |               |          |
+|WCP-1870 X Contact Bearing (1.75"ID, 2.125" OD)   |           |https://wcproducts.com/collections/cnc-hardware/products/specialty-bearings                |1       |55                 |1              |55        |
+|TOTAL COST                                        |           |                                                                                           |        |                   |               |**184.88**|
+
